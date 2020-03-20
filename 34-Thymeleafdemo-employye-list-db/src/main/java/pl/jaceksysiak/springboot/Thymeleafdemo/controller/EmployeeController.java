@@ -1,9 +1,6 @@
 package pl.jaceksysiak.springboot.Thymeleafdemo.controller;
 
-import java.util.ArrayList;
 import java.util.List;
-
-import javax.annotation.PostConstruct;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
